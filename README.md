@@ -150,7 +150,7 @@
 
 ###
 
-<p align="left">In my free time, besides studying about technology or maths, i love to play video games and play metal on my the electric guitar. <br>Also, i lift weights and practice culturism as a hobby</p>
+<p align="left">In my free time, besides studying about technology or maths, i love to play video games and play metal on my electric guitar. <br>Also, i lift weights and practice culturism as a hobby</p>
 
 ###
 
