@@ -179,7 +179,6 @@
 
 ###
 
-<img align="right" height="137" src="https://i.pinimg.com/originals/3e/f0/84/3ef084790f19cfc31cdbd8c4507df15b.gif"  />
 
 ###
 
