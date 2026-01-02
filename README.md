@@ -20,7 +20,7 @@
 
 <h2 align="left">💻 Technologies and tools:</h2>
 
-<h2 align="left">Lenguages</h2>
+<h3 align="left">Lenguages</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">Frameworks</h2>
+<h3 align="left">Frameworks</h2>
 
 ###
 
