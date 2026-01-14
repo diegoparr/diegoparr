@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Currently studying Systems Engineering (6th semester) in Bogotá, Colombia. I'm building my professional career with a focus on cloud technologies (AWS) and modern software architectures.   I'm actively looking for opportunities to apply my knowledges and grow through experience and real projects</h4>
+<h4 align="left">Currently studying Systems Engineering (6th semester) in Bogotá, Colombia. I'm building my professional career with a focus on cloud technologies (AWS) and modern software architectures. I'm actively looking for opportunities to apply my knowledge and grow through experience and real projects</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Cloud Computing (AWS): Actively studying for the AWS Certified Solutions Architect – Associate.<br><br>Java & Spring Boot: Strengthening my skills in the Java ecosystem for enterprise application development.<br><br>Python: Exploring it's usage for data analysis and AI.<br><br>Automation: Currently working on an n8n automation with the guidance of seniors, leveraging LLM's, RAG models, vector databases, and OpenAI embeddings<br><br>Actively exploring the CI/CD principles and automation of infraestructure with tools like Docker</p>
+<p align="left">Cloud Computing (AWS): Actively studying for the AWS Certified Solutions Architect – Associate.<br><br>Java & Spring Boot: Strengthening my skills in the Java ecosystem for enterprise application development.<br><br>Python: Exploring its usage for data analysis and AI.<br><br>Automation: Currently working on an n8n automation with the guidance of seniors, leveraging LLM's, RAG models, vector databases, and OpenAI embeddings<br><br>Actively exploring the CI/CD principles and automation of infraestructure with tools like Docker</p>
 
 ###
 
