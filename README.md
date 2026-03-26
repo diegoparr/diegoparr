@@ -16,7 +16,7 @@
 
 <p align="left">"Cloud Computing (AWS): Familiar with EC2, S3, RDS, Lambda. 
 Planning AWS Solutions Architect certification."<br><br>Java & Spring Boot: Strengthening my skills in the Java ecosystem for enterprise application development.<br><br>Python: Exploring its usage for data analysis and AI.<br><br>"Automation: Built an AI-powered clinical audit system using 
-n8n, integrating LLMs (OpenAI, Claude), RAG models, and 
+n8n, integrating LLMs (OpenAI), RAG models, and 
 vector databases to automate medical record reviews."<br><br>Actively exploring the CI/CD principles and automation of infrastructure with tools like Docker</p>
 
 ###
