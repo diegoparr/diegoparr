@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">¡Hello! 👋 I'm Diego. **Backend Developer** | Cloud & Automation Enthusiast | Systems Engineering Student</h2>
+<h2 align="left">¡Hello! 👋 I'm Diego. Aspiring Backend Developer | Cloud & Automation Enthusiast | Systems Engineering Student</h2>
 
 ###
 
