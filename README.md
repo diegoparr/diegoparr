@@ -69,6 +69,18 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28" alt="Postman" />
 </div>
 
+### 📚 Engineering Bookshelf
+
+**Currently Reading**
+- 📖 *AI Engineering: Building Applications with Foundation Models* — Chip Huyen
+- 📖 *Clean Architecture: A Craftsman's Guide to Software Structure and Design* — Robert C. Martin
+
+**Up Next on My List**
+- 🔖 *System Design on AWS* — Jayanth Kumar & Mandeep Singh
+- 🔖 *Designing Data-Intensive Applications* — Martin Kleppmann
+- 🔖 *Building Microservices* — Sam Newman
+- 🔖 *The Pragmatic Programmer* — Andrew Hunt & David Thomas
+
 ---
 
 ### 🎸🎮 Outside of Code
