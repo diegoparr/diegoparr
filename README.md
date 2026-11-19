@@ -1,158 +1,103 @@
-<h1 align="left">🧙‍♂️ Diego Parrado 🧙‍♂️</h1>
+<h1 align="left">🧙‍♂️ Diego Parrado</h1>
 
-###
+<h3 align="left">Backend & AI Systems Engineer | Final-Year Systems Engineering Student</h3>
 
-<h2 align="left">¡Hello! 👋 I'm Diego. Aspiring Backend Developer | Cloud & Automation Enthusiast | Systems Engineering Student</h2>
+<p align="left">
+  Systems Engineering student based in Bogotá, Colombia (entering my final semester in 2027-1) focused on <strong>backend development, cloud infrastructure, and agentic AI workflows</strong>. I enjoy building practical systems that connect APIs, data pipelines, and LLMs—prioritizing clean architecture and real-world utility over unnecessary complexity.
+</p>
 
-###
+---
 
-<h4 align="left">Currently studying Systems Engineering (6th semester) in Bogotá, Colombia. I'm building my professional career with a focus on cloud technologies (AWS) and modern software architectures. I'm actively looking for opportunities to apply my knowledge and grow through experience and real projects</h4>
+### 🚀 What I'm Working On & Building
 
-###
+- 🎮 **AI-Powered Minecraft NPC (In Progress):** Building a custom Minecraft mod backed by a **Node.js/TypeScript** API wrapper that fetches user listening history from the **Last.fm API**, routes it through **OpenRouter** LLMs to generate personalized music reviews, and delivers the critique in-game via a custom-designed NPC (exploring local TTS integration next).
+- 🤖 **AI Automation & RAG Pipelines:** Previously architected an automated medical records auditing workflow in **n8n** integrating webhooks, **Mistral** PDF extraction, **OpenAI API** agents, and **Supabase (Vector Embeddings)** for regulatory compliance.
+- 🐳 **Deepening Backend & Infra Skills:** Actively sharpening my architecture skills in **NestJS**, containerization with **Docker**, and core **AWS** services.
 
-<h2 align="left">🌱 I'm learning and going deeper in:</h2>
+---
 
-###
+### 💻 Tech Stack
 
-<p align="left">"Cloud Computing (AWS): Familiar with EC2, S3, RDS, Lambda. 
-Planning AWS Solutions Architect certification."<br><br>Java & Spring Boot: Strengthening my skills in the Java ecosystem for enterprise application development.<br><br>Python: Exploring its usage for data analysis and AI.<br><br>"Automation: Built an AI-powered clinical audit system using 
-n8n, integrating LLMs (OpenAI), RAG models, and 
-vector databases to automate medical record reviews."<br><br>Actively exploring the CI/CD principles and automation of infrastructure with tools like Docker</p>
-
-###
-
-<h2 align="left">💻 Technologies and tools:</h2>
-
-<h3 align="left">Lenguages</h2>
-
-###
-
+**Languages**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
 </div>
 
-###
+<br/>
 
-<h3 align="left">Frameworks</h2>
-
-###
-
+**Backend & Frameworks**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="38" alt="NestJS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" alt="Spring Boot" />
 </div>
 
-###
+<br/>
 
-<h3 align="left">Databases</h3>
-
-###
-
+**Databases & Cloud**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="38" alt="Supabase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="38" alt="AWS" />
 </div>
 
-###
+<br/>
 
-<h3 align="left">AI Automation</h3>
-
-###
-
+**AI, Orchestration & Tools**
 <div align="left">
-  <img height="34" src="https://tse2.mm.bing.net/th/id/OIP.FOmz_U689dGUSH2hmmbypgHaCY?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"  />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28" alt="n8n" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/OpenRouter-181717?style=for-the-badge&logo=openrouter&logoColor=white" height="28" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/RAG_%26_Vectors-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="28" alt="RAG" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28" alt="Postman" />
 </div>
 
-###
+---
 
-<h3 align="left">Cloud</h3>
+### 🎸🎮 Outside of Code
 
-###
+When I'm not coding or studying systems architecture, you'll probably find me playing metal riffs on my electric guitar, lifting weights at the gym, or diving into video games.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
-
-<h3 align="left">IDE's</h3>
-
-###
+### 📫 Connect With Me
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-</div>
-
-###
-
-<h3 align="left">Version control</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="30" alt="gitlab logo"  />
-</div>
-
-###
-
-<h2 align="left">🎸🎮 A little about me</h2>
-
-###
-
-<p align="left">In my free time, besides studying about technology or maths, i love to play video games and play metal on my electric guitar. <br>Also, i lift weights as a hobby</p>
-
-###
-
-<h3 align="left">📫Contact me</h3>
-
-###
-
-<div align="center">
-  <a href=https://discord.com/users/diegovichh>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo">
+  <a href="https://www.linkedin.com/in/diego-alejandro-parrado-agudelo-401948317/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="LinkedIn" />
   </a>
   <a href="mailto:diego.parrado3322@gmail.com?subject=Hello!">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/diego-alejandro-parrado-agudelo-401948317/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" >
+  <a href="https://discord.com/users/diegovichh">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Discord" />
   </a>
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoparr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoparr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoparr&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoparr&locale=en&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
-###
-
-
-###
-
-<br clear="both">
+<br/>
 
 <img src="https://raw.githubusercontent.com/diegoparr/diegoparr/output/snake.svg" alt="Snake animation" />
-
-###
